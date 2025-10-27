@@ -1,1 +1,3 @@
-# AEROO_Space_Settlement_4Brain
+Этот репозиторий создан для AEROO Space Settlement
+
+Командой 4Brain
